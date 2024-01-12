@@ -17,30 +17,6 @@
       "user": "admin",
       "action": "submit",
       "data": "text3"
-    },
-    {
-      "id": 4,
-      "user": "admin",
-      "action": "submit",
-      "data": "text4"
-    },
-    {
-      "id": 4,
-      "user": "admin",
-      "action": "submit",
-      "data": "text3"
-    },
-    {
-      "id": 4,
-      "user": "admin",
-      "action": "submit",
-      "data": "text3"
-    },
-    {
-      "id": 4,
-      "user": "admin",
-      "action": "submit",
-      "data": "text3"
     }
   ]
 }
